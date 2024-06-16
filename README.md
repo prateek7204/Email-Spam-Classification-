@@ -25,7 +25,6 @@ To run this project, you need to have Python installed along with the following 
 - matplotlib
 - seaborn
 - scikit-learn
-- joblib
 - tkinter
 
 You can install the required libraries using pip:

@@ -10,9 +10,6 @@ This project involves building a machine learning model to classify emails as ei
 - [Model Training](#model-training)
 - [Best Model Selection](#best-model-selection)
 - [GUI Application](#gui-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Email spam classification is a crucial task to ensure that unwanted and potentially harmful emails are filtered out. In this project, we explore various machine learning algorithms to build an effective spam filter. The project culminates in a user-friendly GUI application where users can input email text and get a classification result.
